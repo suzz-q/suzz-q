@@ -6,3 +6,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzz-q&layout=compact&theme=onedark)
+(https://github-readme-stats.vercel.app/api?username=suzz-q&show_icons=true&theme=radical)
